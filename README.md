@@ -63,7 +63,7 @@ recording = {"your_file1.wav", "your_file2.wav"};
 
 If you use this code in your work, please cite: 
 
-T. Muhr, “Automatic detection of boats in underwater recordings using multiband energy detection,” Master’s Thesis, Chalmers University of Technology, 2025.
+T. Muhr, “Automatic detection of boats in underwater recordings” Master’s Thesis, Chalmers University of Technology, 2025.
 
 ---
 
